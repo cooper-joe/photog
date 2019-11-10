@@ -1,2 +1,4 @@
 name: photog
 markdown: kramdown
+
+theme: jekyll-theme-dinky
